@@ -30,7 +30,8 @@ You, of course, own the copyright to your work. Thus, it’s up to you whether y
 [http://mmp.bmcc.cuny.edu/noelle.stegner/spring-2018/mmp-100/project-4/](http://mmp.bmcc.cuny.edu/noelle.stegner/spring-2018/mmp-100/project-4/)
 
 ### Description
-.
+Meg & Dia - Monster (Creatures Lie Here) (DotEXE Dubstep Remix)
+Noelle Stegner (Fan Made Music Video)
 
 ## Rules
 * **Do not** add or remove any files to this repo.
